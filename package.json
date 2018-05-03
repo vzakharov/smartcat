@@ -1,0 +1,15 @@
+{
+  "name": "smartcat",
+  "version": "0.1.0",
+  "description": "Wrapper for Smartcat documented API methods",
+  "main": "smartcat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "smartcat"
+  },
+  "author": "Vova Zakharov",
+  "license": "ISC"
+}
